@@ -1,0 +1,3 @@
+This is my first attempt at making the Google homepage from scratch. I had some issues with inheritance of CSS values that caused this project to take a long time. I know that I could make this code more organized and efficient but I want to put this up now so I can track my progress in the future. 
+
+I included a reset.css file, although I don't believe it completely reset everything. I viewed my project on Google Chrome as I was working on it.
